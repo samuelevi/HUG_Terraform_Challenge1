@@ -29,7 +29,7 @@ Before deploying, make sure you have:
 
 
 Project Structure
-
+```
 hug-terraform-webserver/
 ├── provider.tf # Terraform + AWS provider configuration
 ├── variables.tf # Input variable declarations
@@ -37,7 +37,7 @@ hug-terraform-webserver/
 ├── main.tf # All infrastructure resources
 ├── outputs.tf # Post-apply output values
 └── README.md
-
+```
 Deployment Instructions
 
 1. Clone this repository and navigate into the project folder:

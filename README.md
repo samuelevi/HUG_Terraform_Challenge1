@@ -21,9 +21,9 @@ Prerequisites
 
 Before deploying, make sure you have:
 
-- [Terraform](https://developer.hashicorp.com/terraform/downloads) installed (`terraform -version` to check)
+- Terraform installed (`terraform -version` to check)
 - An AWS account
-- [AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html) installed and configured with credentials that have permission to create VPC, EC2, and networking resources:
+- AWS CLI installed and configured with credentials that have permission to create VPC, EC2, and networking resources:
    bash
   aws configure
 

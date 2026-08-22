@@ -103,6 +103,12 @@ To avoid ongoing AWS charges, destroy all resources created by this project once
 bash
 terraform destroy
 
+Screenshots
+Deployed Webpage
+![Webpage screenshot](screenshots/Screenshot(25).png)
+
+AWS Console — Instance Running
+![Console screenshot](screenshots/Screenshot(26).png)
 
 Notes
 

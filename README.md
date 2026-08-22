@@ -105,10 +105,10 @@ terraform destroy
 
 Screenshots
 Deployed Webpage
-![Webpage screenshot](screenshots/Screenshot(25).png)
+![Webpage screenshot](screenshots/Screenshot%20%2825%29.png)
 
 AWS Console — Instance Running
-![Console screenshot](screenshots/Screenshot(26).png)
+![Console screenshot](screenshots/Screenshot%20%2826%29.png)
 
 Notes
 
